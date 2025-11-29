@@ -40,7 +40,7 @@ export default {
         }
       },
       fontFamily: {
-        sans: ['Inter', 'sans-serif'],
+        sans: ['"Science Gothic"', 'Inter', 'sans-serif'],
       },
       animation: {
         'float': 'float 6s ease-in-out infinite',
